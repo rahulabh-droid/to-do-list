@@ -23,7 +23,7 @@ Link to software that is required before you attempt to start the app (e.g. node
 
 ### Create Database and Table
 
-Create a new database called `weekend-to-do-app` and run the SQL query from the database.sql file. 
+Create a new database called `to-do-app` and run the SQL query from the database.sql file. 
 
 ### Installing
 
